@@ -21,7 +21,7 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background: rgba(100,100,500,.85);
 }
 
 h1, h2 {
@@ -56,7 +56,7 @@ p {
 }
 
 a {
-  color: black;
+  color: orange;
   text-decoration: none;
 }
 
@@ -72,7 +72,7 @@ a:hover {
 
 @media only screen and (max-width: 784px) {
   body {
-    font-size: 120%;
+    font-size: 100%;
   }
   h1 {
     font-size: 2.5em;
